@@ -1,0 +1,102 @@
+.container-fluid h1
+{
+    padding-top: 45px;
+    padding-bottom: 47px;
+    padding-left: 45px;
+}
+
+
+.contactMe
+{
+    background-color: #23495a;
+}
+.form-control
+{
+    font-family: 'QuattrocentoSans', 'Helvetica', 'Serif';
+    font-size: 16px;
+    line-height: 1.875;
+
+    color: rgb( 143, 143, 143 );
+    background-color: #23495a;
+}
+
+.contactMe h1
+{
+    font-family: 'Athelas Regular', 'Helvetica', 'Serif';
+    font-size: 48px;
+    line-height: 1.5;
+
+    padding-top: 50px;
+    padding-bottom: 35px;
+    padding-left: 0;
+
+    color: rgb( 255, 255, 255 );
+}
+.contactMe p
+{
+    font-family: 'Quattrocento Sans', 'Helvetica', 'Serif';
+    font-size: 20px;
+    line-height: 1.5;
+
+    color: rgb( 192, 192, 192 );
+}
+
+.contactMeForm
+{
+    font-family: 'QuattrocentoSans', 'Helvetica', 'Serif';
+    font-size: 16px;
+    line-height: 1.875;
+
+    margin-top: 60px;
+    padding-bottom: 120px;
+
+    color: rgb( 143, 143, 143);
+}
+
+
+.contactMe button
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 24px;
+    line-height: 1.25;
+
+    color: rgb( 255, 255, 255 );
+    border-style: none;
+    background-color: #89553b;
+}
+.error {
+    background: red;
+  }
+
+@font-face
+{
+    font-family: 'Myriad Pro Regular';
+    font-weight: normal;
+    font-style: normal;
+
+    src: url('MyriadPro-Regular.eot');
+    src: url('MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('MyriadPro-Regular.woff') format('woff'),
+    url('MyriadPro-Regular.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'Athelas Regular';
+    font-weight: normal;
+    font-style: normal;
+
+    src: local('Athelas Regular'), url('Athelas-Regular.woff') format('woff');
+}
+@font-face
+{
+    font-family: 'Vani';
+
+    src: url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.eot');
+    src: url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.eot?#iefix') format('embedded-opentype'),
+    url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.woff2') format('woff2'),
+    url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.woff') format('woff'),
+    url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.ttf') format('truetype'),
+    url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.svg#Vani') format('svg');
+}
+
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans');
